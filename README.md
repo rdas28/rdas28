@@ -38,8 +38,6 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="CanvasJS" width="35" height="35"/>
   <!-- PyCharm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="35" height="35"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
   <!-- Git Bash -->
