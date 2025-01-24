@@ -28,11 +28,7 @@
 
 ### 🧰 Languages and Tools
 
-<p align="left"> 
-         
-
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
+<p align="left">
   <!-- VS Code -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <!-- C -->
