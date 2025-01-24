@@ -81,7 +81,8 @@
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdas28&label=Profile%20views&color=0e75b6&style=flat" alt="rdas28" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdas28" alt="rdas28" /></a> </p>
   <!-- GitHub Readme Streak Stats - https://github.com/rdas28/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/rdas28/github-readme-streak-stats">
