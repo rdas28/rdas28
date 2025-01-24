@@ -1,5 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Riddhi Das</h1>
+<h1 align="center">Riddhi Das</h1>
 <h3 align="center">Aspiring Machine Learning Engineer from IIT Chicago</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
