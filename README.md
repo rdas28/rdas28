@@ -30,13 +30,13 @@
 
 <p align="left">
   <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <!-- CanvasJS -->
-  <img src="https://img.icons8.com/color/452/javascript.png" alt="CanvasJS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="CanvasJS" width="50" height="50"/>
   <!-- PyCharm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
   <!-- Git -->
@@ -72,8 +72,6 @@
   <!-- Sublime Text -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" alt="Sublime Text" width="50" height="50"/>
 </p>
-
-
 
 ---
 
