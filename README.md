@@ -2,7 +2,7 @@
 <h1 align="center">Riddhi Das</h1>
 <h3 align="center">Aspiring Machine Learning Engineer from IIT Chicago</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Everything**
 
 - 💬 Ask me about **ARTIFICIAL INTELLIGENCE**
 
