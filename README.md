@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rdas8@hawk.iit.edu**
 
-- ⚡ Fun fact **I Love to click pictures and cook food**
+- ⚡ Fun fact: **I Love to click pictures and cook food**
 
 <p align="left">
 <a href="https://github.com/rdas28?tab=followers">
