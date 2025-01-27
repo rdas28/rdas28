@@ -1,0 +1,43 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch GitHub Followers and Stars Count
+        id: fetch_counts
+        run: |
+          # Fetch followers count
+          FOLLOWERS=$(curl -s https://api.github.com/users/rdas28 | jq '.followers')
+          
+          # Fetch stars count (sum of stars for all repos)
+          STARS=$(curl -s https://api.github.com/users/rdas28/repos?per_page=100 | jq '[.[] | .stargazers_count] | add')
+          
+          # Handle cases where STARS might be null (e.g., no repos)
+          if [ -z "$STARS" ] || [ "$STARS" = "null" ]; then
+            STARS=0
+          fi
+
+          echo "FOLLOWERS_COUNT=${FOLLOWERS}" >> $GITHUB_ENV
+          echo "STARS_COUNT=${STARS}" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/{{ FOLLOWERS_COUNT }}/$FOLLOWERS_COUNT/" README.md
+          sed -i "s/{{ STARS_COUNT }}/$STARS_COUNT/" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update followers and stars count"
+          git push
