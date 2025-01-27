@@ -12,21 +12,21 @@
 - ⚡ Fun fact: **I Love to click pictures and cook food**
 
 <p align="left">
+  <!-- Stars Badge -->
+  <a href="https://github.com/rdas28">
+    <img 
+      alt="GitHub Stars" 
+      title="Check out my GitHub repositories" 
+      src="https://img.shields.io/badge/Stars-{{ STARS_COUNT }}-4caf50?style=flat-square&logo=star&logoColor=white" 
+    />
+  </a>
+
   <!-- Followers Badge -->
   <a href="https://github.com/rdas28?tab=followers">
     <img 
       alt="GitHub Followers" 
       title="Follow me on GitHub" 
       src="https://img.shields.io/badge/Follow-{{ FOLLOWERS_COUNT }}-1e88e5?style=flat-square&logo=github&logoColor=white" 
-    />
-  </a>
-
-   <!-- Stars Badge -->
-  <a href="https://github.com/rdas28">
-    <img 
-      alt="GitHub Stars" 
-      title="Check out my GitHub repositories" 
-      src="https://img.shields.io/badge/Stars-{{ STARS_COUNT }}-4caf50?style=flat-square&logo=star&logoColor=white" 
     />
   </a>
 </p>
