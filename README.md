@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me 
 - 🌱 I’m currently learning **Everything**
-
+- 
 - 💬 Ask me about **ARTIFICIAL INTELLIGENCE**
 
 - ⚡ Fun fact: **I Love to click pictures and cook food**
