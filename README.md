@@ -19,8 +19,8 @@
 
    ---
 
-<h3 align="left" style="font-size: 2.0rem;">🌐 Connect with me:</h3>
-<p align="left" style="display: flex; gap: 30px; font-size: 2.0rem;">
+<h3 align="left" style="font-size: 4.0rem;">🌐 Connect with me:</h3>
+<p align="left" style="display: flex; gap: 60px; font-size: 4.0rem;">
   <a href="https://www.linkedin.com/in/riddhi-das-817886217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
