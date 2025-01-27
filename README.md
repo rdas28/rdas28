@@ -78,7 +78,8 @@
 
 🎓 **Bachelors in Electronics & Communication Engineering**
 - **Institute**: Heritage Institute of Technology  
-- **Graduation**: June 2024 
+- **Graduation**: June 2024
+</details> 
 ---
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
