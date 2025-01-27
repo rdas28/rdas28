@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 21 * * *" # Runs every hour
+    - cron: "0 * * * *" # Runs every hour
   workflow_dispatch: # Allows manual execution
 
 jobs:
@@ -21,6 +21,10 @@ jobs:
           # Fetch stars count (sum of all repos' stars)
           STARS=$(curl -s https://api.github.com/users/rdas28/repos?per_page=100 | jq '[.[] | .stargazers_count] | add')
 
+          # Debugging: Log fetched values
+          echo "Fetched Followers: $FOLLOWERS"
+          echo "Fetched Stars: $STARS"
+
           # Handle null or missing values
           if [ -z "$FOLLOWERS" ] || [ "$FOLLOWERS" = "null" ]; then
             FOLLOWERS=0
@@ -35,8 +39,11 @@ jobs:
 
       - name: Replace Placeholders in README.md
         run: |
+          echo "Replacing placeholders in README.md..."
           sed -i "s/{{ STARS_COUNT }}/$STARS_COUNT/g" README.md
           sed -i "s/{{ FOLLOWERS_COUNT }}/$FOLLOWERS_COUNT/g" README.md
+          echo "Placeholder replacement complete. Verifying..."
+          cat README.md
 
       - name: Commit and Push Changes
         run: |
