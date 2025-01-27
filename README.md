@@ -29,52 +29,113 @@
 ### 🧰 Languages and Tools
 <p align="left">
   <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35"/>
+    <p>VS Code</p>
+  </div>
   <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
+    <p>C</p>
+  </div>
   <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
+    <p>C++</p>
+  </div>
   <!-- CanvasJS -->
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="CanvasJS" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="CanvasJS" width="35" height="35"/>
+    <p>CanvasJS</p>
+  </div>
   <!-- PyCharm -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="35" height="35"/>
+    <p>PyCharm</p>
+  </div>
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
+    <p>GitHub</p>
+  </div>
   <!-- Git Bash -->
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Bash" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Bash" width="35" height="35"/>
+    <p>Git Bash</p>
+  </div>
   <!-- Adobe Illustrator -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="35" height="35"/>
+    <p>Illustrator</p>
+  </div>
   <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
+    <p>Java</p>
+  </div>
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+    <p>JavaScript</p>
+  </div>
   <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+    <p>Linux</p>
+  </div>
   <!-- MATLAB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="35" height="35"/>
+    <p>MATLAB</p>
+  </div>
   <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
+    <p>MongoDB</p>
+  </div>
   <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
+    <p>Node.js</p>
+  </div>
   <!-- OpenCV -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="35" height="35"/>
+    <p>OpenCV</p>
+  </div>
   <!-- Oracle -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="35" height="35"/>
+    <p>Oracle</p>
+  </div>
   <!-- Photoshop -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="35" height="35"/>
+    <p>Photoshop</p>
+  </div>
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+    <p>Python</p>
+  </div>
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/>
+    <p>React</p>
+  </div>
   <!-- Scikit Learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="35" height="35"/>
+    <p>Scikit Learn</p>
+  </div>
   <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="35" height="35"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="35" height="35"/>
+    <p>TensorFlow</p>
+  </div>
 </p>
 
-
 </p>
-
 
 ---
 <details> 
