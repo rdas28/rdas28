@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Riddhi Das</h1>
 <h3 align="left">Masters in Computer Science at Illinois Institute of Technology || Artificial Intelligence || Full Stack Developer ||</h3>
-![TypingSVG(https://readmetypingsvg.demolab.comfont=Fira+Code&weight=600&size=25&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;I'm+Riddhi+Das!;Let's+code+together!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;I'm+Riddhi+Das!;Let's+code+together!)
 
 - 🌱 I’m currently learning **Everything**
 
