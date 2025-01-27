@@ -103,7 +103,9 @@
   <h3>🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/rdas28/github-readme-streak-stats -->
   <p>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=rdas28&theme=highcontrast&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+    <a href="https://github.com/rdas28/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rdas28's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=rdas28&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
 
