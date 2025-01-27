@@ -17,20 +17,19 @@
     <img 
       alt="GitHub Followers" 
       title="Follow me on GitHub" 
-      src="https://img.shields.io/github/followers/rdas28?color=236ad3&label=Followers&style=for-the-badge&logo=github&labelColor=1155ba" 
+      src="https://img.shields.io/badge/Followers-{{ FOLLOWERS_COUNT }}-1155ba?style=for-the-badge&logo=github" 
     />
   </a>
-  
+
   <!-- Stars Badge -->
-  <a href="https://github.com/rdas28?tab=repositories&sort=stargazers">
+  <a href="https://github.com/rdas28">
     <img 
-      alt="Total Stars" 
-      title="Total Stars on GitHub" 
-      src="https://img.shields.io/github/stars/rdas28?color=55960c&style=for-the-badge&labelColor=488207&logo=github&label=Stars" 
+      alt="GitHub Stars" 
+      title="Check out my GitHub repositories" 
+      src="https://img.shields.io/badge/Stars-{{ STARS_COUNT }}-1155ba?style=for-the-badge&logo=github" 
     />
   </a>
 </p>
-
 
    ---
 
