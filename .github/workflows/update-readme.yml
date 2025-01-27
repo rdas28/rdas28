@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
-  workflow_dispatch: # Allows manual runs
+  workflow_dispatch: # Allows manual execution
 
 jobs:
   update-readme:
@@ -12,16 +12,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch GitHub Followers and Stars Count
-        id: fetch_counts
+      - name: Fetch GitHub Data
+        id: fetch_data
         run: |
           # Fetch followers count
           FOLLOWERS=$(curl -s https://api.github.com/users/rdas28 | jq '.followers')
-          
-          # Fetch stars count (sum of stars for all repos)
+
+          # Fetch stars count (sum of all repos' stars)
           STARS=$(curl -s https://api.github.com/users/rdas28/repos?per_page=100 | jq '[.[] | .stargazers_count] | add')
-          
-          # Handle cases where STARS might be null (e.g., no repos)
+
+          # Handle null or missing values
+          if [ -z "$FOLLOWERS" ] || [ "$FOLLOWERS" = "null" ]; then
+            FOLLOWERS=0
+          fi
+
           if [ -z "$STARS" ] || [ "$STARS" = "null" ]; then
             STARS=0
           fi
@@ -31,8 +35,8 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/{{ FOLLOWERS_COUNT }}/$FOLLOWERS_COUNT/" README.md
-          sed -i "s/{{ STARS_COUNT }}/$STARS_COUNT/" README.md
+          sed -i "s/{{ FOLLOWERS_COUNT }}/$FOLLOWERS_COUNT/g" README.md
+          sed -i "s/{{ STARS_COUNT }}/$STARS_COUNT/g" README.md
 
       - name: Commit and Push Changes
         run: |
@@ -41,3 +45,4 @@ jobs:
           git add README.md
           git commit -m "Update followers and stars count"
           git push
+
