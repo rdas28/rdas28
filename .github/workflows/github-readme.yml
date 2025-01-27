@@ -15,17 +15,9 @@ jobs:
       - name: Fetch GitHub Data
         id: fetch_data
         run: |
-          # Fetch followers count
           FOLLOWERS=$(curl -s https://api.github.com/users/rdas28 | jq '.followers')
-
-          # Fetch stars count (sum of all repos' stars)
           STARS=$(curl -s https://api.github.com/users/rdas28/repos?per_page=100 | jq '[.[] | .stargazers_count] | add')
 
-          # Debugging: Log fetched values
-          echo "Fetched Followers: $FOLLOWERS"
-          echo "Fetched Stars: $STARS"
-
-          # Handle null or missing values
           if [ -z "$FOLLOWERS" ] || [ "$FOLLOWERS" = "null" ]; then
             FOLLOWERS=0
           fi
@@ -39,16 +31,15 @@ jobs:
 
       - name: Replace Placeholders in README.md
         run: |
-          echo "Replacing placeholders in README.md..."
           sed -i "s/{{ STARS_COUNT }}/$STARS_COUNT/g" README.md
           sed -i "s/{{ FOLLOWERS_COUNT }}/$FOLLOWERS_COUNT/g" README.md
-          echo "Placeholder replacement complete. Verifying..."
-          cat README.md
 
       - name: Commit and Push Changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add README.md
           git commit -m "Update followers and stars count"
-          git push
+          git push https://$GH_TOKEN@github.com/rdas28/rdas28.git HEAD:main
