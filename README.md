@@ -19,8 +19,8 @@
 
    ---
 
-<h2 align="center">🌐 Connect with Me</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 60px; margin-top: 40px;">
+<h2 align="left">🌐 Connect with Me</h2>
+<div align="left" style="display: flex; justify-content: left; gap: 60px; margin-top: 40px;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/riddhi-das-817886217/" target="_blank">
