@@ -1,14 +1,13 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
-<h1 align="center">Riddhi Das</h1>
-<h3 align="left">Masters in Computer Science at Illinois Institute of Technology || Artificial Intelligence || Full Stack Developer ||</h3>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C33&width=435&lines=Welcome+to+my+Github+Profile;I'm+Riddhi+Das;Let's+Code+Something+Together)](https://git.io/typing-svg)
 
+<h3 align="left">Masters in Computer Science at Illinois Institute of Technology || Artificial Intelligence || Full Stack Developer ||</h3>
+
+
+## 👨‍💻 About Me 
 - 🌱 I’m currently learning **Everything**
 
 - 💬 Ask me about **ARTIFICIAL INTELLIGENCE**
-
-- 📫 How to reach me **rdas8@hawk.iit.edu**
 
 - ⚡ Fun fact: **I Love to click pictures and cook food**
 
