@@ -10,6 +10,12 @@
 
 - ⚡ Fun fact: **I Love to click pictures and cook food**
 
+### 📚 Educational Background  
+🎓 **Master of Computer Science**  
+- **Specialization**: Artificial Intelligence and Data Analytics
+- **Institute**: Illinois Institute of Technology  
+- **Expected Graduation**: May 2026 
+
 <p align="left">
 <a href="https://github.com/rdas28?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rdas28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
