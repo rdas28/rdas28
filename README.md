@@ -19,20 +19,25 @@
 
    ---
 
-<h3 align="left" style="font-size: 4.0rem;">🌐 Connect with me:</h3>
-<p align="left" style="display: flex; gap: 60px; font-size: 4.0rem;">
+<h2 align="center">🌐 Connect with Me</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 60px; margin-top: 40px;">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/riddhi-das-817886217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/rdas28" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <!-- Email -->
   <a href="mailto:rdas8@hawk.iit.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
 
-
+</div>
 </p>
 
 ---
