@@ -97,18 +97,29 @@
 <details>
   <summary><h2>📚 Educational Background</h2></summary>
   
-  ### 🎓 Master of Computer Science
-  - **Specialization**: Artificial Intelligence and Data Analytics  
-  - **Institute**: Illinois Institute of Technology  
-  - **Expected Graduation**: May 2026  
+ <h2 style="text-align: center;">🎓 Education</h2>
 
-  ### 🎓 Bachelors in Electronics & Communication Engineering
-  - **Institute**: Heritage Institute of Technology  
-  - **Graduation**: June 2024  
+<div style="border: 2px solid #1F222E; border-radius: 10px; padding: 20px; background-color: #1F1F1F; color: #FFFFFF; font-family: Arial, sans-serif;">
+  <h3>🧑‍💻 Master of Computer Science</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li><strong>Specialization:</strong> Artificial Intelligence and Data Analytics</li>
+    <li><strong>Institute:</strong> Illinois Institute of Technology</li>
+    <li><strong>Expected Graduation:</strong> May 2026</li>
+  </ul>
+</div>
+
+<br>
+
+<div style="border: 2px solid #1F222E; border-radius: 10px; padding: 20px; background-color: #1F1F1F; color: #FFFFFF; font-family: Arial, sans-serif;">
+  <h3>📡 Bachelors in Electronics & Communication Engineering</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li><strong>Institute:</strong> Heritage Institute of Technology</li>
+    <li><strong>Graduation:</strong> June 2024</li>
+  </ul>
+</div>
 
 </details>
  
-
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
