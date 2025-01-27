@@ -27,56 +27,111 @@
 ---
 
 ### 🧰 Languages and Tools
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: start;">
   <!-- VS Code -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">VS Code</p>
+    <span style="margin-top: 5px;">VS Code</span>
   </div>
   <!-- C -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">C</p>
+    <span style="margin-top: 5px;">C</span>
   </div>
   <!-- C++ -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">C++</p>
+    <span style="margin-top: 5px;">C++</span>
   </div>
   <!-- CanvasJS -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="CanvasJS" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">CanvasJS</p>
+    <span style="margin-top: 5px;">CanvasJS</span>
   </div>
   <!-- PyCharm -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">PyCharm</p>
+    <span style="margin-top: 5px;">PyCharm</span>
   </div>
   <!-- GitHub -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">GitHub</p>
+    <span style="margin-top: 5px;">GitHub</span>
   </div>
   <!-- Git Bash -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Bash" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">Git Bash</p>
+    <span style="margin-top: 5px;">Git Bash</span>
+  </div>
+  <!-- Adobe Illustrator -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="35" height="35"/>
+    <span style="margin-top: 5px;">Illustrator</span>
   </div>
   <!-- Java -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">Java</p>
+    <span style="margin-top: 5px;">Java</span>
+  </div>
+  <!-- JavaScript -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+    <span style="margin-top: 5px;">JavaScript</span>
+  </div>
+  <!-- Linux -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+    <span style="margin-top: 5px;">Linux</span>
+  </div>
+  <!-- MATLAB -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="35" height="35"/>
+    <span style="margin-top: 5px;">MATLAB</span>
+  </div>
+  <!-- MongoDB -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
+    <span style="margin-top: 5px;">MongoDB</span>
+  </div>
+  <!-- Node.js -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
+    <span style="margin-top: 5px;">Node.js</span>
+  </div>
+  <!-- OpenCV -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="35" height="35"/>
+    <span style="margin-top: 5px;">OpenCV</span>
+  </div>
+  <!-- Oracle -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="35" height="35"/>
+    <span style="margin-top: 5px;">Oracle</span>
+  </div>
+  <!-- Photoshop -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="35" height="35"/>
+    <span style="margin-top: 5px;">Photoshop</span>
   </div>
   <!-- Python -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">Python</p>
+    <span style="margin-top: 5px;">Python</span>
+  </div>
+  <!-- React -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/>
+    <span style="margin-top: 5px;">React</span>
+  </div>
+  <!-- Scikit Learn -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="35" height="35"/>
+    <span style="margin-top: 5px;">Scikit Learn</span>
   </div>
   <!-- TensorFlow -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="35" height="35"/>
-    <p style="margin: 5px 0 0;">TensorFlow</p>
+    <span style="margin-top: 5px;">TensorFlow</span>
   </div>
 </div>
 
