@@ -19,11 +19,18 @@
 
    ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhi-das-817886217/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/rdas28)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:rdas8@hawk.iit.edu)
+  <a href="https://www.linkedin.com/in/riddhi-das-817886217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rdas28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rdas8@hawk.iit.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </p>
 
@@ -116,4 +123,3 @@
 
 © 2025 Riddhi Das
 
----
