@@ -97,8 +97,6 @@
 <details>
   <summary><h2>📚 Educational Background</h2></summary>
   
- <h2 style="text-align: center;">🎓 Education</h2>
-
 <div style="border: 2px solid #1F222E; border-radius: 10px; padding: 20px; background-color: #1F1F1F; color: #FFFFFF; font-family: Arial, sans-serif;">
   <h3>🧑‍💻 Master of Computer Science</h3>
   <ul style="list-style: none; padding: 0;">
