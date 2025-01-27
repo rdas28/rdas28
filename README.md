@@ -67,10 +67,18 @@
   <img src="https://img.shields.io/badge/-Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash" />
   
 </div>
-
-
 </p>
+---
+<details> 
+<summary><h2>📚 Educational Background</h2></summary>  
+🎓 **Master of Computer Science**  
+- **Specialization**: Artificial Intelligence and Data Analytics
+- **Institute**: Illinois Institute of Technology  
+- **Expected Graduation**: May 2026 
 
+🎓 **Bachelors in Electronics & Communication Engineering**
+- **Institute**: Heritage Institute of Technology  
+- **Graduation**: June 2024 
 ---
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
