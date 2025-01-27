@@ -19,8 +19,8 @@
 
    ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<h3 align="left" style="font-size: 1.5rem;">🌐 Connect with me:</h3>
+<p align="left" style="display: flex; gap: 20px; font-size: 1.25rem;">
   <a href="https://www.linkedin.com/in/riddhi-das-817886217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 </p>
 
