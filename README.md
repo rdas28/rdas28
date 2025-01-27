@@ -121,9 +121,10 @@
     <img 
       title="🔥 Get streak stats for your profile at git.io/streak-stats" 
       alt="rdas28's streak" 
-      src="https://github-readme-streak-stats.demolab.com?user=rdas28&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&currStreakLabel=orange&cache_seconds=1800" 
+      src="https://streak-stats.demolab.com?user=rdas28&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=orange&fire=DD2727&ring=F85D7F&stroke=000000" 
     />
   </a>
+</p>
 </p>
 
   </p>
