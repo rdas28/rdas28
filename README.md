@@ -14,12 +14,12 @@
 <p align="left">
   <!-- Followers Badge -->
   <a href="https://github.com/rdas28?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow-14K-236ad3?style=flat-square&logo=github&logoColor=white&labelColor=1155ba&cacheSeconds=60"/>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rdas28?style=flat-square&logo=github&labelColor=1155ba&color=236ad3&cacheSeconds=60"/>
   </a>
 
   <!-- Stars Badge -->
   <a href="https://github.com/rdas28?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Stars-25K-4CAF50?style=flat-square&logo=star&logoColor=white&labelColor=3B873E&cacheSeconds=60"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/rdas28?style=flat-square&logo=star&labelColor=3B873E&color=4CAF50&cacheSeconds=60"/>
   </a>
 </p>
 
