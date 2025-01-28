@@ -10,32 +10,18 @@
 - 💬 Ask me about **ARTIFICIAL INTELLIGENCE**
 
 - ⚡ Fun fact: **I Love to click pictures and cook food**
-
-
-<p align="let">
-  <!-- Followers Badge -->
-  <a href="https://github.com/rdas28?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rdas28?style=for-the-badge"/>
-  </a>
-
-  <!-- Stars Badge -->
-  <a href="https://github.com/rdas28?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/rdas28?style=for-the-badge"/>
-  </a>
   
 <p align="left">
   <!-- Followers Badge -->
   <a href="https://github.com/rdas28?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow-@rdas28-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba&color=236ad3&cacheSeconds=60"/>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow-14K-236ad3?style=flat-square&logo=github&logoColor=white&labelColor=1155ba&cacheSeconds=60"/>
   </a>
 
   <!-- Stars Badge -->
   <a href="https://github.com/rdas28?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Stars-%E2%AD%90%20Dynamic-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=FFA500&color=FFAA00&cacheSeconds=60"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Stars-25K-4CAF50?style=flat-square&logo=star&logoColor=white&labelColor=3B873E&cacheSeconds=60"/>
   </a>
 </p>
-
-
 
    ---
 
