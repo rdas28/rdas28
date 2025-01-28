@@ -25,9 +25,9 @@
 
    ---
 
-<h2 align="left">🌐 Connect with Me</h2>
-<div align="left" style="display: flex; justify-content: left; gap: 60px; margin-top: 40px;">
+<h2 align="left" style="margin-bottom: 0;">🌐 Connect with Me</h2>
 
+<div align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/riddhi-das-817886217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,9 +42,8 @@
   <a href="mailto:rdas8@hawk.iit.edu" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </div>
-</p>
+
 
 ---
 
