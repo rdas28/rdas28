@@ -18,22 +18,9 @@ jobs:
       - name: Fetch GitHub Data
         id: fetch_data
         run: |
-          # Fetch followers count
           FOLLOWERS=$(curl -s https://api.github.com/users/rdas28 | jq '.followers')
+          STARS=$(curl -s https://api.github.com/users/rdas28/repos?per_page=100 | jq '[.[] | .stargazers_count] | add')
 
-          # Fetch stars count (sum of all repos' stars with pagination)
-          STARS=0
-          PAGE=1
-          while :; do
-            RESULT=$(curl -s "https://api.github.com/users/rdas28/repos?per_page=100&page=$PAGE" | jq '[.[] | .stargazers_count] | add')
-            if [ "$RESULT" = "null" ]; then
-              break
-            fi
-            STARS=$(($STARS + $RESULT))
-            PAGE=$(($PAGE + 1))
-          done
-
-          # Handle null or missing values
           if [ -z "$FOLLOWERS" ] || [ "$FOLLOWERS" = "null" ]; then
             FOLLOWERS=0
           fi
@@ -44,11 +31,6 @@ jobs:
 
           echo "FOLLOWERS_COUNT=${FOLLOWERS}" >> $GITHUB_ENV
           echo "STARS_COUNT=${STARS}" >> $GITHUB_ENV
-
-      - name: Debug Fetched Data
-        run: |
-          echo "Followers Count: $FOLLOWERS_COUNT"
-          echo "Stars Count: $STARS_COUNT"
 
       - name: Replace Placeholders in README.md
         run: |
