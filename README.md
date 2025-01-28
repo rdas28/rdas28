@@ -111,48 +111,59 @@
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdas28&label=Profile%20views&color=0e75b6&style=flat" alt="rdas28" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdas28" alt="rdas28" /></a> </p>
-  <h3>🔥 Streak Stats</h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/rdas28/github-readme-streak-stats -->
- <p>
+
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rdas28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- GitHub Profile Trophy -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rdas28&theme=monokai" alt="GitHub Profile Trophy" />
+  </a>
+</p>
+
+<!-- Streak Stats -->
+<h3>🔥 Streak Stats</h3>
+<p>
   <a href="https://github.com/rdas28/github-readme-streak-stats">
-    <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app – visit https://git.io/streak-stats for instructions -->
-    <img 
-      title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-      alt="rdas28's streak" 
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=rdas28&theme=monokai-metallian&hide_border=true&short_numbers=true&cache_seconds=1800" 
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="Streak Stats"
+      src="https://streak-stats.demolab.com/?user=rdas28&theme=monokai-metallian&hide_border=true&short_numbers=true&cache_seconds=1800"
     />
   </a>
 </p>
-       
-<h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/rdas28/github-readme-stats -->
 <!-- GitHub Stats -->
-<a href="https://github.com/rdas28/github-readme-stats">
+<h3>💻 GitHub Profile Stats</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    alt="rdas28's Github Stats"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rdas28&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=rdas28&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800"
     height="192px"
   />
 </a>
 
 <!-- Top Languages -->
-<a href="https://github.com/rdas28/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    alt="rdas28's Top Languages"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rdas28&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdas28&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800"
     height="192px"
   />
 </a>
 
+<!-- Activity Graph -->
+<h3>📈 Activity Graph</h3>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img
+    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rdas28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+  />
+</a>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/rdas28/github-readme-activity-graph -->
-
-  <a href="https://github.com/rdas28/github-readme-activity-graph"><img alt="rdas28's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rdas28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 </details>
 
