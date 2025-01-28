@@ -136,7 +136,6 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rdas28&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 <!-- GitHub Stats -->
 <h3>💻 GitHub Profile Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
