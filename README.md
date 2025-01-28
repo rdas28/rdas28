@@ -138,6 +138,18 @@
     height="192px"
   />
 </a>
+<h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/rdas28/github-readme-stats -->
+<!-- GitHub Stats -->
+<a href="https://github.com/rdas28/github-readme-stats">
+  <img
+    alt="rdas28's Github Stats"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rdas28&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800"
+    height="192px"
+  />
+</a>
+
 
 <!-- Top Languages -->
 <a href="https://github.com/rdas28/github-readme-stats">
