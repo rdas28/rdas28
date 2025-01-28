@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I Love to click pictures and cook food**
   
-<p align="left" style="display: flex; gap: 60px; align-items: center;">
+<p align="left" style="display: flex; gap: 1px; align-items: center;">
   <!-- Followers Badge -->
   <a href="https://github.com/rdas28?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rdas28?style=for-the-badge&logo=github&labelColor=1155ba&color=236ad3&cacheSeconds=60"/>
