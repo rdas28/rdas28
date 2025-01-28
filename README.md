@@ -22,6 +22,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/rdas28?style=for-the-badge&logo=star&labelColor=3B873E&color=4CAF50&cacheSeconds=60"/>
   </a>
 </p>
+
    ---
 
 <h2 align="left">🌐 Connect with Me</h2>
