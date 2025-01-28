@@ -17,7 +17,7 @@
     <img 
       alt="Follow" 
       title="Follow me on GitHub" 
-      src="https://img.shields.io/badge/Follow- FOLLOWERS_COUNT -1E90FF?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/Follow-1234-1E90FF?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
 
@@ -26,10 +26,11 @@
     <img 
       alt="Stars" 
       title="Star my repositories" 
-      src="https://img.shields.io/badge/Stars-STARS_COUNT-4CAF50?style=for-the-badge&logo=star&logoColor=white" 
+      src="https://img.shields.io/badge/Stars-5678-4CAF50?style=for-the-badge&logo=star&logoColor=white" 
     />
   </a>
 </p>
+
 
 
    ---
