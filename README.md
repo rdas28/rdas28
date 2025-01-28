@@ -22,19 +22,19 @@
   <a href="https://github.com/rdas28?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/rdas28?style=for-the-badge"/>
   </a>
-</p>
-
-<p align="center">
+  
+<p align="left">
   <!-- Followers Badge -->
   <a href="https://github.com/rdas28?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rdas28?color=1E90FF&label=Followers&logo=github&style=for-the-badge"/>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow-@rdas28-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba&color=236ad3&cacheSeconds=60"/>
   </a>
 
   <!-- Stars Badge -->
   <a href="https://github.com/rdas28?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/rdas28?color=FFD700&label=Stars&logo=star&logoColor=white&style=for-the-badge"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Stars-%E2%AD%90%20Dynamic-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=FFA500&color=FFAA00&cacheSeconds=60"/>
   </a>
 </p>
+
 
 
    ---
