@@ -11,27 +11,8 @@
 
 - ⚡ Fun fact: **I Love to click pictures and cook food**
 
-<p align="left">
-  <!-- Followers Badge -->
-  <a href="https://github.com/rdas28?tab=followers">
-    <img 
-      alt="Follow" 
-      title="Follow me on GitHub" 
-      src="https://img.shields.io/badge/Follow-{{FOLLOWERS_COUNT}}-1E90FF?style=for-the-badge&logo=github&logoColor=white" 
-    />
-  </a>
 
-  <!-- Stars Badge -->
-  <a href="https://github.com/rdas28">
-    <img 
-      alt="Stars" 
-      title="Star my repositories" 
-      src="https://img.shields.io/badge/Stars-{{STARS_COUNT}}-4CAF50?style=for-the-badge&logo=star&logoColor=white" 
-    />
-  </a>
-</p>
-
-<p align="center">
+<p align="let">
   <!-- Followers Badge -->
   <a href="https://github.com/rdas28?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rdas28?style=for-the-badge"/>
@@ -42,9 +23,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/rdas28?style=for-the-badge"/>
   </a>
 </p>
-
-
-
 
    ---
 
