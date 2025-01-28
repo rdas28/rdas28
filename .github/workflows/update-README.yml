@@ -2,8 +2,8 @@ name: Update Followers and Stars
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch: # Allows manual execution
 
 jobs:
   update-readme:
@@ -18,9 +18,13 @@ jobs:
       - name: Fetch GitHub Data
         id: fetch_data
         run: |
+          # Fetch followers count
           FOLLOWERS=$(curl -s https://api.github.com/users/rdas28 | jq '.followers')
+
+          # Fetch stars count (sum of all repos' stars)
           STARS=$(curl -s https://api.github.com/users/rdas28/repos?per_page=100 | jq '[.[] | .stargazers_count] | add')
 
+          # Handle null or missing values
           if [ -z "$FOLLOWERS" ] || [ "$FOLLOWERS" = "null" ]; then
             FOLLOWERS=0
           fi
@@ -37,5 +41,5 @@ jobs:
           sed -i "s/{{FOLLOWERS_COUNT}}/$FOLLOWERS_COUNT/g" README.md
           sed -i "s/{{STARS_COUNT}}/$STARS_COUNT/g" README.md
 
-      - name: Debug Placeholder Replacement
+      - name: Verify Changes in README.md
         run: cat README.md
