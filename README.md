@@ -25,7 +25,7 @@
 
    ---
 
-<p align="left" style="margin-bottom: 0;">🌐 Connect with Me</p>
+### 🌐 Connect with ME
 
 <div align="left">
   <!-- LinkedIn -->
