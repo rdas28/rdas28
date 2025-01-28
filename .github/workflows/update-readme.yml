@@ -1,0 +1,43 @@
+name: Update Followers and Stars
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch: # Allows manual execution
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch GitHub Data
+        id: fetch_data
+        run: |
+          # Fetch followers count
+          FOLLOWERS=$(curl -s https://api.github.com/users/rdas28 | jq '.followers')
+
+          # Fetch stars count (sum of all repos' stars)
+          STARS=$(curl -s https://api.github.com/users/rdas28/repos?per_page=100 | jq '[.[] | .stargazers_count] | add')
+
+          # Handle null or missing values
+          if [ -z "$FOLLOWERS" ] || [ "$FOLLOWERS" = "null" ]; then
+            FOLLOWERS=0
+          fi
+
+          if [ -z "$STARS" ] || [ "$STARS" = "null" ]; then
+            STARS=0
+          fi
+
+          echo "FOLLOWERS_COUNT=${FOLLOWERS}" >> $GITHUB_ENV
+          echo "STARS_COUNT=${STARS}" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          # Replace placeholders in README.md with actual values
+          sed -i "s/{{ FOLLOWERS_COUNT }}/$FOLLOWERS_COUNT/g" README.md
+          sed -i "s/{{ STARS_COUNT }}/$STARS_COUNT/g" README.md
+
+      - name: Output Updated File (Optional)
+        run: cat README.md
