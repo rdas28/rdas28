@@ -24,6 +24,18 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Followers Badge -->
+  <a href="https://github.com/rdas28?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow-@rdas28-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba"/>
+  </a>
+
+  <!-- Stars Badge -->
+  <a href="https://github.com/rdas28?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Stars-⭐%20Total-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=FFA500"/>
+  </a>
+</p>
+
    ---
 
 <h2 align="left">🌐 Connect with Me</h2>
