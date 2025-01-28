@@ -1,8 +1,8 @@
-name: Update README
+name: Update Followers and Stars
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 21 * * *" # Runs every hour
   workflow_dispatch: # Allows manual execution
 
 jobs:
@@ -35,9 +35,9 @@ jobs:
 
       - name: Update README
         run: |
-          # Replace placeholders with actual values
-          sed -i "s/14K/$FOLLOWERS_COUNT/g" README.md
-          sed -i "s/25K/$STARS_COUNT/g" README.md
+          # Replace placeholders in README.md with actual values
+          sed -i "s/{{ FOLLOWERS_COUNT }}/$FOLLOWERS_COUNT/g" README.md
+          sed -i "s/{{ STARS_COUNT }}/$STARS_COUNT/g" README.md
 
       - name: Commit and Push Changes
         env:
@@ -49,4 +49,3 @@ jobs:
           git add README.md
           git commit -m "Update followers and stars count"
           git push origin HEAD:main
-
