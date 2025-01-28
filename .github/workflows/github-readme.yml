@@ -40,7 +40,8 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git remote set-url origin https://$GH_TOKEN@github.com/rdas28/rdas28.git
           git add README.md
           git commit -m "Update followers and stars count"
-          git remote set-url origin https://$GH_TOKEN@github.com/rdas28/rdas28.git
-          git push https://$GH_TOKEN@github.com/rdas28/rdas28.git HEAD:main
+          git push origin HEAD:main
+
