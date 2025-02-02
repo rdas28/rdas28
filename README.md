@@ -95,7 +95,9 @@
   <!-- Operating Systems -->
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash" />
-  
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </div>
 </p>
 </details>
