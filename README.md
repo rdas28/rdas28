@@ -186,5 +186,5 @@
 
 ---
 
-© 2025 Riddhi Das Shivam
+© 2025 Riddhi Das
 
