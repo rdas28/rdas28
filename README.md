@@ -72,6 +72,9 @@
   <img src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/-cluster-3182BD?style=for-the-badge&logo=r&logoColor=white" alt="cluster" />
+  <img src="https://img.shields.io/badge/-arules-FF5733?style=for-the-badge&logo=r&logoColor=white" alt="arules" />
+  <img src="https://img.shields.io/badge/-arulesViz-900C3F?style=for-the-badge&logo=r&logoColor=white" alt="arulesViz" />
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
 ### 💻 Design Tools
