@@ -44,6 +44,7 @@
 
 
 ---
+<details>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <div align="left">
@@ -97,6 +98,8 @@
   <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </div>
 </p>
+</details>
+
 
 <details>
   <summary><h2>📚 Educational Background</h2></summary>
