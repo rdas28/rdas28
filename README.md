@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C33&width=435&lines=Welcome+to+my+Github!+;I'm+Riddhi+Das;An+Aspiring+ML+engineer;Let's+Code+Something+Together)](https://git.io/typing-svg)
 
-## 🌟 Tech In Motion  
-![Coding Animation](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
-
-
 <h3 align="left">Masters in Computer Science at Illinois Institute of Technology || Artificial Intelligence || Full Stack Developer ||</h3>
 
 ## 👨‍💻 About Me 
