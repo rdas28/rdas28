@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/rdas28">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Riddhi Das" /></a>
+</p>
+
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C33&width=435&lines=Welcome+to+my+Github!+;I'm+Riddhi+Das;An+Aspiring+ML+engineer;Let's+Code+Something+Together)](https://git.io/typing-svg)
