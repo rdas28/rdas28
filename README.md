@@ -193,12 +193,3 @@
 </div>
 
 © 2025 Riddhi Das
-
-
-
-
-
-
-*   WakaTime card
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rdas28)
