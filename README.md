@@ -192,4 +192,4 @@
 </picture>
 </div>
 
-© 2025 Riddhi Das
+© 2024 Riddhi Das
