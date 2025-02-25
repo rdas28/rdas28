@@ -184,8 +184,6 @@
   
 </details>
 
----
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdas28/rdas28/output/github-snake-dark.svg" />
