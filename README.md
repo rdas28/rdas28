@@ -27,7 +27,7 @@
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/riddhi-das-817886217/" target="_blank">
+  <a href="[https://www.linkedin.com/in/riddhi-das-817886217](https://www.linkedin.com/in/riddhidas2801/)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
